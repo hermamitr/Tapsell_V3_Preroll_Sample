@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NexageVAST/NexageVAST.iml" filepath="$PROJECT_DIR$/NexageVAST/NexageVAST.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TapsellV3PreRollSample.iml" filepath="$PROJECT_DIR$/TapsellV3PreRollSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
