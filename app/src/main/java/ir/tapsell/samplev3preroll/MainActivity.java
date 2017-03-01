@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity implements VASTPlayer.VASTPl
         findViewById(R.id.btnShow).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                vastPlayer.loadVideoWithUrl(TapsellVast.getVastUrl(MainActivity.this,"58b284904684651bf8196cbc",TapsellVast.VAST_VERSION_3));
+                vastPlayer.loadVideoWithUrl(TapsellVast.getVastUrl(MainActivity.this,"58b284904684651bf8196cbc",TapsellVast.PREROLL_TYPE_SHORT,TapsellVast.VAST_VERSION_3));
             }
         });
     }
