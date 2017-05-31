@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\Emertat\AndroidStudioProjects\TapsellV3PreRollSample\NexageVAST\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Users\Emertat\AndroidStudioProjects\TapsellV3PreRollSample\NexageVAST\src\release\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Android\Projects\TapsellV3PreRollSample\NexageVAST\src\main\jniLibs"/></dataSet><dataSet config="release"><source path="C:\Android\Projects\TapsellV3PreRollSample\NexageVAST\src\release\jniLibs"/></dataSet></merger>
